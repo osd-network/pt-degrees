@@ -15,11 +15,11 @@ A escolaridade obrigatória abrange do 1.º ao 12.º ano - consagrada na **Lei n
 
 | Fase                               | Anos      | Idades |
 | ---------------------------------- | --------- | ------ |
-| [1.º Ciclo EB](./1ciclo/)          | 1.º–4.º   | 6–10   |
-| [2.º Ciclo EB](./2ciclo/)          | 5.º–6.º   | 10–12  |
-| [3.º Ciclo EB](./3ciclo/)          | 7.º–9.º   | 12–15  |
-| [Ensino Secundário](./secundario/) | 10.º–12.º | 15–18  |
-| [Universidade](./superior/)        | 3–6 anos  | 18+    |
+| [1.º Ciclo EB](./1ciclo/)          | 1.º - 4.º   | 6 - 10   |
+| [2.º Ciclo EB](./2ciclo/)          | 5.º - 6.º   | 10 - 12  |
+| [3.º Ciclo EB](./3ciclo/)          | 7.º - 9.º   | 12 - 15  |
+| [Ensino Secundário](./secundario/) | 10.º - 12.º | 15 - 18  |
+| [Universidade](./superior/)        | 3 - 6 anos  | 18+    |
 
 
 

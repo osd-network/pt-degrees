@@ -1,6 +1,6 @@
 # Portuguese Education System
 
-##" 1.º Ciclo do Ensino Básico - Currículo Obrigatório (1.º - 4.º Ano)
+### 1.º Ciclo do Ensino Básico - Currículo Obrigatório (1.º - 4.º Ano)
 
 **Referência normativa:** Decreto-Lei n.º 55/2018, de 6 de julho; Portaria n.º 223-A/2018, de 3 de agosto; Despacho n.º 6605-A/2021.
 
