@@ -63,7 +63,25 @@ volumes de prismas e cilindros; média, moda e mediana
 
 
 
-### Português
+### Português (AE - Despacho n.º 6605-A/2021)
+
+**Domínios:** Oralidade · Leitura · Educação Literária · Escrita · Gramática
+**Carga horária:** mínimo 250 min/semana; referência de 5 tempos (45 min) por semana.
+
+- **5.º ano:**
+  - *Oralidade:* Escuta ativa de textos expositivos e narrativos; exposição oral organizada (expor, narrar, defender uma opinião)
+  - *Leitura:* Textos narrativos e informativos; estratégias de compreensão (inferência, ideia principal, estrutura do texto)
+  - *Educação Literária:* Leitura integral de obras da lista DGE — mínimo: 1 livro infantojuvenil, 4 poemas, 2 lendas, 3 contos de autor, 1 texto dramático; análise de texto narrativo
+  - *Escrita:* Descrição de pessoas/objetos/paisagens; narração com descrições; texto de opinião simples; carta formal
+  - *Gramática:* Classes de palavras (revisão e aprofundamento); conjunções; tempos e modos verbais; funções sintáticas básicas (sujeito, predicado, CD, CI)
+
+- **6.º ano:**
+  - *Oralidade:* Debate simples com posições fundamentadas; entrevista; exposição sobre tema pesquisado
+  - *Leitura:* Textos de maior complexidade (textos dos media, texto de enciclopédia, textos argumentativos introdutórios)
+  - *Educação Literária:* Obras da lista DGE para o 6.º ano; aprofundamento da análise narrativa (narrador, tempo, espaço, personagens); poesia com recursos estilísticos (metáfora, comparação, anáfora)
+  - *Escrita:* Texto narrativo com diálogo e descrição; notícia; texto de opinião com argumentos; resumo
+  - *Gramática:* Orações coordenadas e subordinadas (introdução); advérbios e locuções adverbiais; voz ativa e passiva; discurso direto e indireto
+
 
 
 
